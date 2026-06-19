@@ -33,7 +33,7 @@ A modern, interactive web application for discovering and exploring movies and T
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BATTI-CHANDAN-SINGH/MERN-STACK.git
    cd CineHub
    ```
 
